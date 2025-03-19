@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
-**Library Manager** is a Python-based command-line application that helps you manage your personal book library. You can add, remove, edit, search, and track books, as well as view statistics about your reading progress.
+**Library Manager** is a Python-based command-line application that helps you manage your personal book library. You can add, remove, edit, search, and track books, as well as view statistics about your reading progress and you can also download your favourite book.
 
 ---
 
